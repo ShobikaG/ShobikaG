@@ -11,6 +11,7 @@
             ☑️ Artificial Intellengence [AI] 🤖 ||
             ☑️ Web Development 🎨🖌️ ||
             ☑️ Blockchain 🪙 ||
+            ☑️ App Development🖼️
 - 💞️ I’m looking to collaborate on new projects  ...
 - 📫 You can reach me through 📩 shobika23304@gmail.com ...
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShobikaG/ShobikaG)
